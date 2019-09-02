@@ -1,4 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+[![Build Status](https://travis-ci.org/boudhayan/boudhayan.github.io.svg?branch=develop)](https://travis-ci.org/boudhayan/boudhayan.github.io)
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
